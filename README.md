@@ -1,5 +1,5 @@
 ## Hi! My name is Luca Gloger 👋
-🗺️ I am a Front-End Developer based in Germany.
+🗺️ I am a Front-End Developer based in Germany.<br>
 ♥️ I enjoy creating Web & Mobile Applications.
 
 ### Skills
